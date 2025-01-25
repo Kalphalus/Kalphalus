@@ -28,8 +28,11 @@ My interests include Coding, Music Creation, Digital Art, PCB Design, Soldering,
   </a>
   
 <h1>Socials</h1>
+<a href="https://www.discord.com/users/936686654989692928">
 Discord
+</a><a href="https://www.youtube.com/@Kalphalus">
 YouTube
+</a>
 
 <h1>THIS IS UNFINISHED, EMBEDS WILL BE ADDED</h1>
 </div>
