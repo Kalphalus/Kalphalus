@@ -29,11 +29,11 @@ My interests include Coding, Music Creation, Digital Art, PCB Design, Soldering,
 
 <h1>My Projects</h1>
   <a href="https://github.com/Kalphalus/YouRTube" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/Kalphalus/.github/blob/38c946671c367aa81772ee5ccf8003daa96b1ef8/YouRTube/assets/logo.yourtube.extended.png" height="64" alt="YouRTube" />
+    <img src="https://github.com/Kalphalus/.github/blob/38c946671c367aa81772ee5ccf8003daa96b1ef8/YouRTube/assets/logo.yourtube.extended.png" style="height: 5vh;" alt="YouRTube" />
   </a>
   <br>
   <a href="https://github.com/Kalphalus/PlaiR" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/Kalphalus/.github/blob/b8ac5dd6e74e4610489393dcd229c4eabd90576c/PlaiR/assets/logo.plair.extended.png" height="64" alt="PlaiR" />
+<img src="https://github.com/Kalphalus/.github/blob/b8ac5dd6e74e4610489393dcd229c4eabd90576c/PlaiR/assets/logo.plair.extended.png" style="height: 5vh;" alt="PlaiR" />
   </a>
   
 <h1>Socials</h1>
