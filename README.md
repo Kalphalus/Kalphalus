@@ -1,7 +1,8 @@
 <!-
 <br>
   <a href="https://github.com/Kalphalus/Kalphalus/readme.md" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/Kalphalus/.github/blob/baf5c19d430c5ceeecc2342b279f8ceac5997f0f/Other/assets/profile/aboutme.png" alt="profile" />
+  <img src="https://github.com/Kalphalus/.github/blob/c891b3256232cdbaa8cedfbbdf19086ddb308abc/Other/assets/profile/logo.png" alt="profile" />
+    <img src="https://github.com/Kalphalus/.github/blob/e4d2f4e931aa58843251a4cefe422134b1ae9a36/Other/assets/profile/aboutme.png" alt="profile" />
     <img src="https://github.com/Kalphalus/.github/blob/60e7cdc8b839b1b950ff08ddaec1cc42d9e06e1b/Other/assets/profile/myinterests.png" alt="profile" />
   </a>
   -->
